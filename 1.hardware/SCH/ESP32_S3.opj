@@ -1,0 +1,71 @@
+(ExpressProject "ESP32_S3"
+  (ProjectVersion "19981106")
+  (SoftwareVersion "17.4-2019 S023 (3989754)  [11/2/2021]-[04/23/22]")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library"
+      (File ".\library.olb"
+        (Type "Schematic Library")))
+    ("Allegro Netlist Directory" "allegro")
+    (DOCKED "TRUE")
+    (DOCKING_POSITION "59420")
+    (NoModify)
+    (File ".\esp32_s3.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x"))
+  (Folder "Layout")
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (Folder "PSpice Resources"
+    (Folder "Simulation Profiles")
+    (Folder "Model Libraries"
+      (Sort User))
+    (Folder "Stimulus Files"
+      (Sort User))
+    (Folder "Include Files"
+      (Sort User)))
+  (Folder "Logs")
+  (PartMRUSelector
+    (RES
+      (FullPartName "RES.Normal")
+      (LibraryName "C:\USERS\JOSEPHKEVIN\DESKTOP\ESP32-S3\SCH\LIBRARY.OLB")
+      (DeviceIndex "0"))
+    (ESP32_S3
+      (FullPartName "ESP32_S3.Normal")
+      (LibraryName "C:\USERS\JOSEPHKEVIN\DESKTOP\ESP32-S3\SCH\LIBRARY.OLB")
+      (DeviceIndex "0")))
+  (MPSSessionName "JosephKevin")
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" ".\esp32_s3.dsn")
+      (Path "Design Resources" ".\esp32_s3.dsn" "SCHEMATIC1")
+      (Path "Design Resources" ".\esp32_s3.dsn" "Design Cache")
+      (Path "Design Resources" "Library")
+      (Path "Design Resources" "Library" ".\library.olb")
+      (Path "PSpice Resources")
+      (Select "Layout"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 0 309 0 1107"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 2205 28 1129")
+        (Scroll "-380 -12")
+        (Zoom "145")
+        (Occurrence "/"))
+      (Path "C:\USERS\JOSEPHKEVIN\DESKTOP\ESP32-S3\SCH\ESP32_S3.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "PAGE1"))
+    (Doc
+      (Type "COrPrmBrowserDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 2205 28 1129"))
+      (Path "C:\USERS\JOSEPHKEVIN\DESKTOP\ESP32-S3\SCH\LIBRARY.OLB")
+      (Package "ESP32_S3")
+      (PartType "1"))))
