@@ -1,4 +1,4 @@
-Date and Time : 05/12/22 20:39:55
+Date and Time : 05/21/22 17:36:14
 
 --------------------------------------------------
 Checking Schematic: SCHEMATIC1
@@ -6,78 +6,10 @@ Checking Schematic: SCHEMATIC1
 Checking Electrical Rules 
 
 Checking For Single Node Nets
-WARNING(ORCAP-1600): Net has fewer than two connections GPIO47 
-                    SCHEMATIC1, ESP32_S3  (177.80, 91.44) 
-WARNING(ORCAP-1600): Net has fewer than two connections GPIO48 
-                    SCHEMATIC1, ESP32_S3  (177.80, 93.98) 
-WARNING(ORCAP-1600): Net has fewer than two connections GPIO21 
-                    SCHEMATIC1, ESP32_S3  (152.40, 134.62) 
-WARNING(ORCAP-1600): Net has fewer than two connections GPIO12 
-                    SCHEMATIC1, ESP32_S3  (127.00, 134.62) 
-WARNING(ORCAP-1600): Net has fewer than two connections GPIO3 
-                    SCHEMATIC1, ESP32_S3  (99.06, 96.52) 
-WARNING(ORCAP-1600): Net has fewer than two connections U0_TXD 
-                    SCHEMATIC1, ESP32_S3  (139.70, 27.94) 
-WARNING(ORCAP-1600): Net has fewer than two connections GPIO13 
-                    SCHEMATIC1, ESP32_S3  (129.54, 134.62) 
-WARNING(ORCAP-1600): Net has fewer than two connections GPIO11 
-                    SCHEMATIC1, ESP32_S3  (124.46, 134.62) 
-WARNING(ORCAP-1600): Net has fewer than two connections GPIO7 
-                    SCHEMATIC1, ESP32_S3  (99.06, 106.68) 
-WARNING(ORCAP-1600): Net has fewer than two connections GPIO14 
-                    SCHEMATIC1, ESP32_S3  (132.08, 134.62) 
-WARNING(ORCAP-1600): Net has fewer than two connections GPIO40 
-                    SCHEMATIC1, ESP32_S3  (149.86, 55.88) 
-WARNING(ORCAP-1600): Net has fewer than two connections GPIO15 
-                    SCHEMATIC1, ESP32_S3  (137.16, 134.62) 
-WARNING(ORCAP-1600): Net has fewer than two connections GPIO9 
-                    SCHEMATIC1, ESP32_S3  (99.06, 111.76) 
-WARNING(ORCAP-1600): Net has fewer than two connections GPIO18 
-                    SCHEMATIC1, ESP32_S3  (144.78, 134.62) 
-WARNING(ORCAP-1600): Net has fewer than two connections GPIO5 
-                    SCHEMATIC1, ESP32_S3  (99.06, 101.60) 
-WARNING(ORCAP-1600): Net has fewer than two connections SPICHD 
-                    SCHEMATIC1, ESP32_S3  (193.04, 109.22) 
-WARNING(ORCAP-1600): Net has fewer than two connections GPIO16 
-                    SCHEMATIC1, ESP32_S3  (139.70, 134.62) 
-WARNING(ORCAP-1600): Net has fewer than two connections GPIO0 
-                    SCHEMATIC1, ESP32_S3  (99.06, 88.90) 
-WARNING(ORCAP-1600): Net has fewer than two connections SPIHD 
-                    SCHEMATIC1, ESP32_S3  (287.02, 114.30) 
-WARNING(ORCAP-1600): Net has fewer than two connections CHIP_PU 
-                    SCHEMATIC1, ESP32_S3  (99.06, 86.36) 
-WARNING(ORCAP-1600): Net has fewer than two connections GPIO46 
-                    SCHEMATIC1, ESP32_S3  (132.08, 55.88) 
-WARNING(ORCAP-1600): Net has fewer than two connections USB_D_N 
-                    SCHEMATIC1, ESP32_S3  (147.32, 134.62) 
-WARNING(ORCAP-1600): Net has fewer than two connections GPIO6 
-                    SCHEMATIC1, ESP32_S3  (99.06, 104.14) 
-WARNING(ORCAP-1600): Net has fewer than two connections GPIO8 
-                    SCHEMATIC1, ESP32_S3  (99.06, 109.22) 
-WARNING(ORCAP-1600): Net has fewer than two connections GPIO1 
-                    SCHEMATIC1, ESP32_S3  (99.06, 91.44) 
-WARNING(ORCAP-1600): Net has fewer than two connections GPIO41 
-                    SCHEMATIC1, ESP32_S3  (144.78, 55.88) 
-WARNING(ORCAP-1600): Net has fewer than two connections GPIO38 
-                    SCHEMATIC1, ESP32_S3  (154.94, 55.88) 
-WARNING(ORCAP-1600): Net has fewer than two connections GPIO17 
-                    SCHEMATIC1, ESP32_S3  (142.24, 134.62) 
-WARNING(ORCAP-1600): Net has fewer than two connections GPIO4 
-                    SCHEMATIC1, ESP32_S3  (99.06, 99.06) 
-WARNING(ORCAP-1600): Net has fewer than two connections GPIO10 
-                    SCHEMATIC1, ESP32_S3  (121.92, 134.62) 
-WARNING(ORCAP-1600): Net has fewer than two connections U0_RXD 
-                    SCHEMATIC1, ESP32_S3  (137.16, 12.70) 
 WARNING(ORCAP-1600): Net has fewer than two connections USB_D_P 
-                    SCHEMATIC1, ESP32_S3  (149.86, 134.62) 
-WARNING(ORCAP-1600): Net has fewer than two connections GPIO42 
-                    SCHEMATIC1, ESP32_S3  (142.24, 55.88) 
-WARNING(ORCAP-1600): Net has fewer than two connections GPIO2 
-                    SCHEMATIC1, ESP32_S3  (99.06, 93.98) 
-WARNING(ORCAP-1600): Net has fewer than two connections GPIO39 
-                    SCHEMATIC1, ESP32_S3  (152.40, 55.88) 
-WARNING(ORCAP-1600): Net has fewer than two connections GPIO26 
-                    SCHEMATIC1, ESP32_S3  (154.94, 134.62) 
+                    SCHEMATIC1, ESP32_S3  (149.86, 152.40) 
+WARNING(ORCAP-1600): Net has fewer than two connections USB_D_N 
+                    SCHEMATIC1, ESP32_S3  (147.32, 152.40) 
 
 Checking For Unconnected Bus Nets
 
@@ -107,26 +39,28 @@ INFO(ORCAP-36105): Checking Missing Pin Numbers
 
 Checking Device with Zero pins  
 INFO(ORCAP-36101): Checking Missing PCB Footprint Property  
+#1 ERROR(ORCAP-36002): Property "PCB Footprint" missing from instance SW1: SCHEMATIC1, ESP32_S3 (43.18, 119.38).
+#2 ERROR(ORCAP-36002): Property "PCB Footprint" missing from instance SW2: SCHEMATIC1, ESP32_S3 (43.18, 129.54).
 
 Checking Name Property for Hierarchical Instances  
 
 INFO(ORCAP-2211): Check High Speed Properties Syntax
 
 INFO(ORCAP-2212): Check Power Ground Mismatch
-WARNING(ORCAP-1589): Net has two or more aliases that might lead to a short. Ensure nets are not shorted together or nets do not have two or more aliases. This message is displayed because 'Report all net names' is set in Design Rules Check dialog. U2,VDD  VDD  VDD_SPI
-                    SCHEMATIC1, ESP32_S3  (271.78, 109.22) 
 WARNING(ORCAP-1589): Net has two or more aliases that might lead to a short. Ensure nets are not shorted together or nets do not have two or more aliases. This message is displayed because 'Report all net names' is set in Design Rules Check dialog. U1,VDD3P3  VDD3P3  VCC_3V3
                     SCHEMATIC1, ESP32_S3  (99.06, 81.28) 
 WARNING(ORCAP-1589): Net has two or more aliases that might lead to a short. Ensure nets are not shorted together or nets do not have two or more aliases. This message is displayed because 'Report all net names' is set in Design Rules Check dialog. U1,VDD3P3  VDD3P3  VCC_3V3
-                    SCHEMATIC1, ESP32_S3  (99.06, 83.82) 
+                    SCHEMATIC1, ESP32_S3  (99.06, 78.74) 
 WARNING(ORCAP-1589): Net has two or more aliases that might lead to a short. Ensure nets are not shorted together or nets do not have two or more aliases. This message is displayed because 'Report all net names' is set in Design Rules Check dialog. U1,VDDA  VDDA  VCC_3V3
-                    SCHEMATIC1, ESP32_S3  (124.46, 55.88) 
+                    SCHEMATIC1, ESP32_S3  (124.46, 53.34) 
 WARNING(ORCAP-1589): Net has two or more aliases that might lead to a short. Ensure nets are not shorted together or nets do not have two or more aliases. This message is displayed because 'Report all net names' is set in Design Rules Check dialog. U1,VDDA  VDDA  VCC_3V3
-                    SCHEMATIC1, ESP32_S3  (121.92, 55.88) 
-WARNING(ORCAP-1589): Net has two or more aliases that might lead to a short. Ensure nets are not shorted together or nets do not have two or more aliases. This message is displayed because 'Report all net names' is set in Design Rules Check dialog. U1,VDD3P3_RTC  VDD3P3_RTC  VCC_3V3
-                    SCHEMATIC1, ESP32_S3  (134.62, 134.62) 
+                    SCHEMATIC1, ESP32_S3  (121.92, 53.34) 
 WARNING(ORCAP-1589): Net has two or more aliases that might lead to a short. Ensure nets are not shorted together or nets do not have two or more aliases. This message is displayed because 'Report all net names' is set in Design Rules Check dialog. U1,VDD3P3_CPU  VDD3P3_CPU  VCC_3V3
-                    SCHEMATIC1, ESP32_S3  (147.32, 55.88) 
+                    SCHEMATIC1, ESP32_S3  (147.32, 53.34) 
+WARNING(ORCAP-1589): Net has two or more aliases that might lead to a short. Ensure nets are not shorted together or nets do not have two or more aliases. This message is displayed because 'Report all net names' is set in Design Rules Check dialog. U1,VDD3P3_RTC  VDD3P3_RTC  VCC_3V3
+                    SCHEMATIC1, ESP32_S3  (134.62, 132.08) 
+WARNING(ORCAP-1589): Net has two or more aliases that might lead to a short. Ensure nets are not shorted together or nets do not have two or more aliases. This message is displayed because 'Report all net names' is set in Design Rules Check dialog. U2,VDD  VDD  VDD_SPI
+                    SCHEMATIC1, ESP32_S3  (271.78, 109.22) 
 
 Reporting Unused Refdes in multiple part packages
 Part	                       Quantity	                       Reference
