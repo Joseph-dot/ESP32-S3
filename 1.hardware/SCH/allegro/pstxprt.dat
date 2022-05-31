@@ -1,0 +1,690 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 17.4.0 d001May-31-2022 at 16:29:10 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='ESP32_S3';
+ POST_TIME='Nov  2 2021 14:32:04';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ C1 'CAP NP_0402C_1UF':;
+
+SECTION_NUMBER 1
+ '@ESP32_S3.SCHEMATIC1(SCH_1):INS969@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@esp32_s3.schematic1(sch_1):ins969@discrete.\cap np.normal\(chips)',
+ P_PATH='@esp32_s3.schematic1(sch_1):page1_ins969@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C10 'CAP NP_0402C_0.1UF':;
+
+SECTION_NUMBER 1
+ '@ESP32_S3.SCHEMATIC1(SCH_1):INS4490@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@esp32_s3.schematic1(sch_1):ins4490@discrete.\cap np.normal\(chips)',
+ P_PATH='@esp32_s3.schematic1(sch_1):page1_ins4490@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C11 'CAP NP_0402C_1UF':;
+
+SECTION_NUMBER 1
+ '@ESP32_S3.SCHEMATIC1(SCH_1):INS5817@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@esp32_s3.schematic1(sch_1):ins5817@discrete.\cap np.normal\(chips)',
+ P_PATH='@esp32_s3.schematic1(sch_1):page1_ins5817@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C12 'CAP NP_0402C_0.1UF':;
+
+SECTION_NUMBER 1
+ '@ESP32_S3.SCHEMATIC1(SCH_1):INS5833@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@esp32_s3.schematic1(sch_1):ins5833@discrete.\cap np.normal\(chips)',
+ P_PATH='@esp32_s3.schematic1(sch_1):page1_ins5833@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C13 'CAP NP_0402C_TBD':;
+
+SECTION_NUMBER 1
+ '@ESP32_S3.SCHEMATIC1(SCH_1):INS6682@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@esp32_s3.schematic1(sch_1):ins6682@discrete.\cap np.normal\(chips)',
+ P_PATH='@esp32_s3.schematic1(sch_1):page1_ins6682@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C14 'CAP NP_0402C_TBD':;
+
+SECTION_NUMBER 1
+ '@ESP32_S3.SCHEMATIC1(SCH_1):INS6698@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@esp32_s3.schematic1(sch_1):ins6698@discrete.\cap np.normal\(chips)',
+ P_PATH='@esp32_s3.schematic1(sch_1):page1_ins6698@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C15 'C_0603C_10UF':;
+
+SECTION_NUMBER 1
+ '@ESP32_S3.SCHEMATIC1(SCH_1):INS18640@MY_LIB.C.NORMAL(CHIPS)':
+ C_PATH='@esp32_s3.schematic1(sch_1):ins18640@my_lib.\c.normal\(chips)',
+ P_PATH='@esp32_s3.schematic1(sch_1):page1_ins18640@my_lib.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C16 'C_0603C_10UF':;
+
+SECTION_NUMBER 1
+ '@ESP32_S3.SCHEMATIC1(SCH_1):INS18746@MY_LIB.C.NORMAL(CHIPS)':
+ C_PATH='@esp32_s3.schematic1(sch_1):ins18746@my_lib.\c.normal\(chips)',
+ P_PATH='@esp32_s3.schematic1(sch_1):page1_ins18746@my_lib.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C17 'CAP NP_0402C_1UF':;
+
+SECTION_NUMBER 1
+ '@ESP32_S3.SCHEMATIC1(SCH_1):INS40278@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@esp32_s3.schematic1(sch_1):ins40278@discrete.\cap np.normal\(chips)',
+ P_PATH='@esp32_s3.schematic1(sch_1):page1_ins40278@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C18 'C_0402C_1UF':;
+
+SECTION_NUMBER 1
+ '@ESP32_S3.SCHEMATIC1(SCH_1):INS42626@MY_LIB.C.NORMAL(CHIPS)':
+ C_PATH='@esp32_s3.schematic1(sch_1):ins42626@my_lib.\c.normal\(chips)',
+ P_PATH='@esp32_s3.schematic1(sch_1):page1_ins42626@my_lib.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C19 'C_0603C_10UF':;
+
+SECTION_NUMBER 1
+ '@ESP32_S3.SCHEMATIC1(SCH_1):INS46902@MY_LIB.C.NORMAL(CHIPS)':
+ C_PATH='@esp32_s3.schematic1(sch_1):ins46902@my_lib.\c.normal\(chips)',
+ P_PATH='@esp32_s3.schematic1(sch_1):page1_ins46902@my_lib.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C2 'CAP NP_0402C_10NF':;
+
+SECTION_NUMBER 1
+ '@ESP32_S3.SCHEMATIC1(SCH_1):INS1619@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@esp32_s3.schematic1(sch_1):ins1619@discrete.\cap np.normal\(chips)',
+ P_PATH='@esp32_s3.schematic1(sch_1):page1_ins1619@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C3 'CAP NP_0402C_1UF':;
+
+SECTION_NUMBER 1
+ '@ESP32_S3.SCHEMATIC1(SCH_1):INS2128@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@esp32_s3.schematic1(sch_1):ins2128@discrete.\cap np.normal\(chips)',
+ P_PATH='@esp32_s3.schematic1(sch_1):page1_ins2128@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C4 'CAP NP_0603C_10UF':;
+
+SECTION_NUMBER 1
+ '@ESP32_S3.SCHEMATIC1(SCH_1):INS2303@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@esp32_s3.schematic1(sch_1):ins2303@discrete.\cap np.normal\(chips)',
+ P_PATH='@esp32_s3.schematic1(sch_1):page1_ins2303@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C5 'CAP NP_0402C_1UF':;
+
+SECTION_NUMBER 1
+ '@ESP32_S3.SCHEMATIC1(SCH_1):INS2319@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@esp32_s3.schematic1(sch_1):ins2319@discrete.\cap np.normal\(chips)',
+ P_PATH='@esp32_s3.schematic1(sch_1):page1_ins2319@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C6 'CAP NP_0402C_0.1UF':;
+
+SECTION_NUMBER 1
+ '@ESP32_S3.SCHEMATIC1(SCH_1):INS2335@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@esp32_s3.schematic1(sch_1):ins2335@discrete.\cap np.normal\(chips)',
+ P_PATH='@esp32_s3.schematic1(sch_1):page1_ins2335@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C7 'CAP NP_0402C_TBD':;
+
+SECTION_NUMBER 1
+ '@ESP32_S3.SCHEMATIC1(SCH_1):INS2833@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@esp32_s3.schematic1(sch_1):ins2833@discrete.\cap np.normal\(chips)',
+ P_PATH='@esp32_s3.schematic1(sch_1):page1_ins2833@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C8 'CAP NP_0402C_TBD':;
+
+SECTION_NUMBER 1
+ '@ESP32_S3.SCHEMATIC1(SCH_1):INS2849@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@esp32_s3.schematic1(sch_1):ins2849@discrete.\cap np.normal\(chips)',
+ P_PATH='@esp32_s3.schematic1(sch_1):page1_ins2849@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C9 'CAP NP_0402C_TBD':;
+
+SECTION_NUMBER 1
+ '@ESP32_S3.SCHEMATIC1(SCH_1):INS2865@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@esp32_s3.schematic1(sch_1):ins2865@discrete.\cap np.normal\(chips)',
+ P_PATH='@esp32_s3.schematic1(sch_1):page1_ins2865@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D1 'DIODE_SOD123F_1N5819':;
+
+SECTION_NUMBER 1
+ '@ESP32_S3.SCHEMATIC1(SCH_1):INS39218@DISCRETE.DIODE.NORMAL(CHIPS)':
+ C_PATH='@esp32_s3.schematic1(sch_1):ins39218@discrete.\diode.normal\(chips)',
+ P_PATH='@esp32_s3.schematic1(sch_1):page1_ins39218@discrete.\diode.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D2 'DIODE_SOD123F_1N5819':;
+
+SECTION_NUMBER 1
+ '@ESP32_S3.SCHEMATIC1(SCH_1):INS39375@DISCRETE.DIODE.NORMAL(CHIPS)':
+ C_PATH='@esp32_s3.schematic1(sch_1):ins39375@discrete.\diode.normal\(chips)',
+ P_PATH='@esp32_s3.schematic1(sch_1):page1_ins39375@discrete.\diode.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D3 'QEC113_0402LED_RED':;
+
+SECTION_NUMBER 1
+ '@ESP32_S3.SCHEMATIC1(SCH_1):INS49776@DISCRETE.QEC113.NORMAL(CHIPS)':
+ C_PATH='@esp32_s3.schematic1(sch_1):ins49776@discrete.\qec113.normal\(chips)',
+ P_PATH='@esp32_s3.schematic1(sch_1):page1_ins49776@discrete.\qec113.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ IPEX1 'IPEX_1_IPEX_1_IPEX_1':;
+
+SECTION_NUMBER 1
+ '@ESP32_S3.SCHEMATIC1(SCH_1):INS14187@MY_LIB.IPEX_1.NORMAL(CHIPS)':
+ C_PATH='@esp32_s3.schematic1(sch_1):ins14187@my_lib.\ipex_1.normal\(chips)',
+ P_PATH='@esp32_s3.schematic1(sch_1):page1_ins14187@my_lib.\ipex_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J1 'HEADER_5_HDR_5_HEADER_5':;
+
+SECTION_NUMBER 1
+ '@ESP32_S3.SCHEMATIC1(SCH_1):INS14706@MY_LIB.HEADER_5.NORMAL(CHIPS)':
+ C_PATH='@esp32_s3.schematic1(sch_1):ins14706@my_lib.\header_5.normal\(chips)',
+ P_PATH='@esp32_s3.schematic1(sch_1):page1_ins14706@my_lib.\header_5.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J2 'HEADER_2*15_HDR_2*15_HEADER_2*15':;
+
+SECTION_NUMBER 1
+ '@ESP32_S3.SCHEMATIC1(SCH_1):INS15893@MY_LIB.HEADER_2*15.NORMAL(CHIPS)':
+ C_PATH='@esp32_s3.schematic1(sch_1):ins15893@my_lib.\header_2*15.normal\(chips)',
+ P_PATH='@esp32_s3.schematic1(sch_1):page1_ins15893@my_lib.\header_2*15.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J3 'HEADER_2*5_HDR_2*5_HEADER_2*5':;
+
+SECTION_NUMBER 1
+ '@ESP32_S3.SCHEMATIC1(SCH_1):INS18981@MY_LIB.HEADER_2*5.NORMAL(CHIPS)':
+ C_PATH='@esp32_s3.schematic1(sch_1):ins18981@my_lib.\header_2*5.normal\(chips)',
+ P_PATH='@esp32_s3.schematic1(sch_1):page1_ins18981@my_lib.\header_2*5.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J4 'HEADER_2*5_HDR_2*5_HEADER_2*5':;
+
+SECTION_NUMBER 1
+ '@ESP32_S3.SCHEMATIC1(SCH_1):INS19013@MY_LIB.HEADER_2*5.NORMAL(CHIPS)':
+ C_PATH='@esp32_s3.schematic1(sch_1):ins19013@my_lib.\header_2*5.normal\(chips)',
+ P_PATH='@esp32_s3.schematic1(sch_1):page1_ins19013@my_lib.\header_2*5.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L1 'INDUCTOR_0402L_TBD':;
+
+SECTION_NUMBER 1
+ '@ESP32_S3.SCHEMATIC1(SCH_1):INS2770@DISCRETE.INDUCTOR.NORMAL(CHIPS)':
+ C_PATH='@esp32_s3.schematic1(sch_1):ins2770@discrete.\inductor.normal\(chips)',
+ P_PATH='@esp32_s3.schematic1(sch_1):page1_ins2770@discrete.\inductor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L2 'INDUCTOR_0402L_TBD':;
+
+SECTION_NUMBER 1
+ '@ESP32_S3.SCHEMATIC1(SCH_1):INS2881@DISCRETE.INDUCTOR.NORMAL(CHIPS)':
+ C_PATH='@esp32_s3.schematic1(sch_1):ins2881@discrete.\inductor.normal\(chips)',
+ P_PATH='@esp32_s3.schematic1(sch_1):page1_ins2881@discrete.\inductor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q1 'NPN_SOT-23_S8050':;
+
+SECTION_NUMBER 1
+ '@ESP32_S3.SCHEMATIC1(SCH_1):INS53520@MY_LIB.NPN.NORMAL(CHIPS)':
+ C_PATH='@esp32_s3.schematic1(sch_1):ins53520@my_lib.\npn.normal\(chips)',
+ P_PATH='@esp32_s3.schematic1(sch_1):page1_ins53520@my_lib.\npn.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q2 'NPN_SOT-23_S8050':;
+
+SECTION_NUMBER 1
+ '@ESP32_S3.SCHEMATIC1(SCH_1):INS53554@MY_LIB.NPN.NORMAL(CHIPS)':
+ C_PATH='@esp32_s3.schematic1(sch_1):ins53554@my_lib.\npn.normal\(chips)',
+ P_PATH='@esp32_s3.schematic1(sch_1):page1_ins53554@my_lib.\npn.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R1 'R_0402R_10K(NC)':;
+
+SECTION_NUMBER 1
+ '@ESP32_S3.SCHEMATIC1(SCH_1):INS1459@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@esp32_s3.schematic1(sch_1):ins1459@discrete.\r.normal\(chips)',
+ P_PATH='@esp32_s3.schematic1(sch_1):page1_ins1459@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R10 'R_0402R_5.1K':;
+
+SECTION_NUMBER 1
+ '@ESP32_S3.SCHEMATIC1(SCH_1):INS27339@MY_LIB.R.NORMAL(CHIPS)':
+ C_PATH='@esp32_s3.schematic1(sch_1):ins27339@my_lib.\r.normal\(chips)',
+ P_PATH='@esp32_s3.schematic1(sch_1):page1_ins27339@my_lib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R11 'R_0402R_5.1K':;
+
+SECTION_NUMBER 1
+ '@ESP32_S3.SCHEMATIC1(SCH_1):INS27355@MY_LIB.R.NORMAL(CHIPS)':
+ C_PATH='@esp32_s3.schematic1(sch_1):ins27355@my_lib.\r.normal\(chips)',
+ P_PATH='@esp32_s3.schematic1(sch_1):page1_ins27355@my_lib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R12 'R_0402R_5.1K':;
+
+SECTION_NUMBER 1
+ '@ESP32_S3.SCHEMATIC1(SCH_1):INS39897@MY_LIB.R.NORMAL(CHIPS)':
+ C_PATH='@esp32_s3.schematic1(sch_1):ins39897@my_lib.\r.normal\(chips)',
+ P_PATH='@esp32_s3.schematic1(sch_1):page1_ins39897@my_lib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R13 'R_0402R_5.1K':;
+
+SECTION_NUMBER 1
+ '@ESP32_S3.SCHEMATIC1(SCH_1):INS39913@MY_LIB.R.NORMAL(CHIPS)':
+ C_PATH='@esp32_s3.schematic1(sch_1):ins39913@my_lib.\r.normal\(chips)',
+ P_PATH='@esp32_s3.schematic1(sch_1):page1_ins39913@my_lib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R14 'R_0402R_10K':;
+
+SECTION_NUMBER 1
+ '@ESP32_S3.SCHEMATIC1(SCH_1):INS40350@MY_LIB.R.NORMAL(CHIPS)':
+ C_PATH='@esp32_s3.schematic1(sch_1):ins40350@my_lib.\r.normal\(chips)',
+ P_PATH='@esp32_s3.schematic1(sch_1):page1_ins40350@my_lib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R15 'R_0402R_10K':;
+
+SECTION_NUMBER 1
+ '@ESP32_S3.SCHEMATIC1(SCH_1):INS40477@MY_LIB.R.NORMAL(CHIPS)':
+ C_PATH='@esp32_s3.schematic1(sch_1):ins40477@my_lib.\r.normal\(chips)',
+ P_PATH='@esp32_s3.schematic1(sch_1):page1_ins40477@my_lib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R16 'R_0402R_5.1K':;
+
+SECTION_NUMBER 1
+ '@ESP32_S3.SCHEMATIC1(SCH_1):INS41019@MY_LIB.R.NORMAL(CHIPS)':
+ C_PATH='@esp32_s3.schematic1(sch_1):ins41019@my_lib.\r.normal\(chips)',
+ P_PATH='@esp32_s3.schematic1(sch_1):page1_ins41019@my_lib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R17 'R_0402R_22.1K':;
+
+SECTION_NUMBER 1
+ '@ESP32_S3.SCHEMATIC1(SCH_1):INS41581@MY_LIB.R.NORMAL(CHIPS)':
+ C_PATH='@esp32_s3.schematic1(sch_1):ins41581@my_lib.\r.normal\(chips)',
+ P_PATH='@esp32_s3.schematic1(sch_1):page1_ins41581@my_lib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R18 'R_0402R_47.5K':;
+
+SECTION_NUMBER 1
+ '@ESP32_S3.SCHEMATIC1(SCH_1):INS41597@MY_LIB.R.NORMAL(CHIPS)':
+ C_PATH='@esp32_s3.schematic1(sch_1):ins41597@my_lib.\r.normal\(chips)',
+ P_PATH='@esp32_s3.schematic1(sch_1):page1_ins41597@my_lib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R19 'R_0402R_1K':;
+
+SECTION_NUMBER 1
+ '@ESP32_S3.SCHEMATIC1(SCH_1):INS45022@MY_LIB.R.NORMAL(CHIPS)':
+ C_PATH='@esp32_s3.schematic1(sch_1):ins45022@my_lib.\r.normal\(chips)',
+ P_PATH='@esp32_s3.schematic1(sch_1):page1_ins45022@my_lib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R2 'R_0402R_499R':;
+
+SECTION_NUMBER 1
+ '@ESP32_S3.SCHEMATIC1(SCH_1):INS3932@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@esp32_s3.schematic1(sch_1):ins3932@discrete.\r.normal\(chips)',
+ P_PATH='@esp32_s3.schematic1(sch_1):page1_ins3932@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R20 'R_0402R_10K/NC':;
+
+SECTION_NUMBER 1
+ '@ESP32_S3.SCHEMATIC1(SCH_1):INS45261@MY_LIB.R.NORMAL(CHIPS)':
+ C_PATH='@esp32_s3.schematic1(sch_1):ins45261@my_lib.\r.normal\(chips)',
+ P_PATH='@esp32_s3.schematic1(sch_1):page1_ins45261@my_lib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R21 'R_0402R_0R':;
+
+SECTION_NUMBER 1
+ '@ESP32_S3.SCHEMATIC1(SCH_1):INS48919@MY_LIB.R.NORMAL(CHIPS)':
+ C_PATH='@esp32_s3.schematic1(sch_1):ins48919@my_lib.\r.normal\(chips)',
+ P_PATH='@esp32_s3.schematic1(sch_1):page1_ins48919@my_lib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R22 'R_0402R_0R':;
+
+SECTION_NUMBER 1
+ '@ESP32_S3.SCHEMATIC1(SCH_1):INS48935@MY_LIB.R.NORMAL(CHIPS)':
+ C_PATH='@esp32_s3.schematic1(sch_1):ins48935@my_lib.\r.normal\(chips)',
+ P_PATH='@esp32_s3.schematic1(sch_1):page1_ins48935@my_lib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R23 'R_0402R_10K':;
+
+SECTION_NUMBER 1
+ '@ESP32_S3.SCHEMATIC1(SCH_1):INS49735@MY_LIB.R.NORMAL(CHIPS)':
+ C_PATH='@esp32_s3.schematic1(sch_1):ins49735@my_lib.\r.normal\(chips)',
+ P_PATH='@esp32_s3.schematic1(sch_1):page1_ins49735@my_lib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R24 'R_0402R_10K':;
+
+SECTION_NUMBER 1
+ '@ESP32_S3.SCHEMATIC1(SCH_1):INS49751@MY_LIB.R.NORMAL(CHIPS)':
+ C_PATH='@esp32_s3.schematic1(sch_1):ins49751@my_lib.\r.normal\(chips)',
+ P_PATH='@esp32_s3.schematic1(sch_1):page1_ins49751@my_lib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R25 'R_0402R_0R':;
+
+SECTION_NUMBER 1
+ '@ESP32_S3.SCHEMATIC1(SCH_1):INS53673@MY_LIB.R.NORMAL(CHIPS)':
+ C_PATH='@esp32_s3.schematic1(sch_1):ins53673@my_lib.\r.normal\(chips)',
+ P_PATH='@esp32_s3.schematic1(sch_1):page1_ins53673@my_lib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R26 'R_0402R_0R':;
+
+SECTION_NUMBER 1
+ '@ESP32_S3.SCHEMATIC1(SCH_1):INS53689@MY_LIB.R.NORMAL(CHIPS)':
+ C_PATH='@esp32_s3.schematic1(sch_1):ins53689@my_lib.\r.normal\(chips)',
+ P_PATH='@esp32_s3.schematic1(sch_1):page1_ins53689@my_lib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R3 'R_0402R_0R':;
+
+SECTION_NUMBER 1
+ '@ESP32_S3.SCHEMATIC1(SCH_1):INS5572@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@esp32_s3.schematic1(sch_1):ins5572@discrete.\r.normal\(chips)',
+ P_PATH='@esp32_s3.schematic1(sch_1):page1_ins5572@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R4 'R_0402R_0R':;
+
+SECTION_NUMBER 1
+ '@ESP32_S3.SCHEMATIC1(SCH_1):INS5592@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@esp32_s3.schematic1(sch_1):ins5592@discrete.\r.normal\(chips)',
+ P_PATH='@esp32_s3.schematic1(sch_1):page1_ins5592@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R5 'R_0402R_0R':;
+
+SECTION_NUMBER 1
+ '@ESP32_S3.SCHEMATIC1(SCH_1):INS5608@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@esp32_s3.schematic1(sch_1):ins5608@discrete.\r.normal\(chips)',
+ P_PATH='@esp32_s3.schematic1(sch_1):page1_ins5608@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R6 'R_0402R_0R':;
+
+SECTION_NUMBER 1
+ '@ESP32_S3.SCHEMATIC1(SCH_1):INS5624@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@esp32_s3.schematic1(sch_1):ins5624@discrete.\r.normal\(chips)',
+ P_PATH='@esp32_s3.schematic1(sch_1):page1_ins5624@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R7 'R_0402R_0R':;
+
+SECTION_NUMBER 1
+ '@ESP32_S3.SCHEMATIC1(SCH_1):INS5640@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@esp32_s3.schematic1(sch_1):ins5640@discrete.\r.normal\(chips)',
+ P_PATH='@esp32_s3.schematic1(sch_1):page1_ins5640@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R8 'R_0402R_10K':;
+
+SECTION_NUMBER 1
+ '@ESP32_S3.SCHEMATIC1(SCH_1):INS11763@MY_LIB.R.NORMAL(CHIPS)':
+ C_PATH='@esp32_s3.schematic1(sch_1):ins11763@my_lib.\r.normal\(chips)',
+ P_PATH='@esp32_s3.schematic1(sch_1):page1_ins11763@my_lib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R9 'R_0402R_10K':;
+
+SECTION_NUMBER 1
+ '@ESP32_S3.SCHEMATIC1(SCH_1):INS14528@MY_LIB.R.NORMAL(CHIPS)':
+ C_PATH='@esp32_s3.schematic1(sch_1):ins14528@my_lib.\r.normal\(chips)',
+ P_PATH='@esp32_s3.schematic1(sch_1):page1_ins14528@my_lib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ SW1 'KEY_SW3*4*2_2P_KEY':;
+
+SECTION_NUMBER 1
+ '@ESP32_S3.SCHEMATIC1(SCH_1):INS12855@MY_LIB.KEY.NORMAL(CHIPS)':
+ C_PATH='@esp32_s3.schematic1(sch_1):ins12855@my_lib.\key.normal\(chips)',
+ P_PATH='@esp32_s3.schematic1(sch_1):page1_ins12855@my_lib.\key.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ SW2 'KEY_SW3*4*2_2P_KEY':;
+
+SECTION_NUMBER 1
+ '@ESP32_S3.SCHEMATIC1(SCH_1):INS14544@MY_LIB.KEY.NORMAL(CHIPS)':
+ C_PATH='@esp32_s3.schematic1(sch_1):ins14544@my_lib.\key.normal\(chips)',
+ P_PATH='@esp32_s3.schematic1(sch_1):page1_ins14544@my_lib.\key.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ SW3 'KEY_SW3*4*2_2P_KEY':;
+
+SECTION_NUMBER 1
+ '@ESP32_S3.SCHEMATIC1(SCH_1):INS40366@MY_LIB.KEY.NORMAL(CHIPS)':
+ C_PATH='@esp32_s3.schematic1(sch_1):ins40366@my_lib.\key.normal\(chips)',
+ P_PATH='@esp32_s3.schematic1(sch_1):page1_ins40366@my_lib.\key.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ SW4 'KEY_SW3*4*2_2P_KEY':;
+
+SECTION_NUMBER 1
+ '@ESP32_S3.SCHEMATIC1(SCH_1):INS40493@MY_LIB.KEY.NORMAL(CHIPS)':
+ C_PATH='@esp32_s3.schematic1(sch_1):ins40493@my_lib.\key.normal\(chips)',
+ P_PATH='@esp32_s3.schematic1(sch_1):page1_ins40493@my_lib.\key.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TYPE_C1 'TYPEC_16P_TYPEC_16P_TYPEC_16P':;
+
+SECTION_NUMBER 1
+ '@ESP32_S3.SCHEMATIC1(SCH_1):INS21961@MY_LIB.TYPEC_16P.NORMAL(CHIPS)':
+ C_PATH='@esp32_s3.schematic1(sch_1):ins21961@my_lib.\typec_16p.normal\(chips)',
+ P_PATH='@esp32_s3.schematic1(sch_1):page1_ins21961@my_lib.\typec_16p.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TYPE_C2 'TYPEC_16P_TYPEC_16P_TYPEC_16P':;
+
+SECTION_NUMBER 1
+ '@ESP32_S3.SCHEMATIC1(SCH_1):INS33659@MY_LIB.TYPEC_16P.NORMAL(CHIPS)':
+ C_PATH='@esp32_s3.schematic1(sch_1):ins33659@my_lib.\typec_16p.normal\(chips)',
+ P_PATH='@esp32_s3.schematic1(sch_1):page1_ins33659@my_lib.\typec_16p.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U1 'ESP32_S3_QFN56_7X7_ESP32_S3':;
+
+SECTION_NUMBER 1
+ '@ESP32_S3.SCHEMATIC1(SCH_1):INS136@MY_LIB.ESP32_S3.NORMAL(CHIPS)':
+ C_PATH='@esp32_s3.schematic1(sch_1):ins136@my_lib.\esp32_s3.normal\(chips)',
+ P_PATH='@esp32_s3.schematic1(sch_1):page1_ins136@my_lib.\esp32_s3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U2 'W25QXX_WSON8_5X6_W25QXX':;
+
+SECTION_NUMBER 1
+ '@ESP32_S3.SCHEMATIC1(SCH_1):INS7023@MY_LIB.W25QXX.NORMAL(CHIPS)':
+ C_PATH='@esp32_s3.schematic1(sch_1):ins7023@my_lib.\w25qxx.normal\(chips)',
+ P_PATH='@esp32_s3.schematic1(sch_1):page1_ins7023@my_lib.\w25qxx.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U3 'AMS1117_SOT-89_AMS1117':;
+
+SECTION_NUMBER 1
+ '@ESP32_S3.SCHEMATIC1(SCH_1):INS18382@MY_LIB.AMS1117.NORMAL(CHIPS)':
+ C_PATH='@esp32_s3.schematic1(sch_1):ins18382@my_lib.\ams1117.normal\(chips)',
+ P_PATH='@esp32_s3.schematic1(sch_1):page1_ins18382@my_lib.\ams1117.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U4 'CP2102-GMR_QFN28_5X5_CP2102-GMR':;
+
+SECTION_NUMBER 1
+ '@ESP32_S3.SCHEMATIC1(SCH_1):INS32070@MY_LIB.CP2102-GMR.NORMAL(CHIPS)':
+ C_PATH='@esp32_s3.schematic1(sch_1):ins32070@my_lib.\cp2102-gmr.normal\(chips)',
+ P_PATH='@esp32_s3.schematic1(sch_1):page1_ins32070@my_lib.\cp2102-gmr.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Y1 'XTAL_SMD-3225_40MHZ':;
+
+SECTION_NUMBER 1
+ '@ESP32_S3.SCHEMATIC1(SCH_1):INS6411@MY_LIB.XTAL.NORMAL(CHIPS)':
+ C_PATH='@esp32_s3.schematic1(sch_1):ins6411@my_lib.\xtal.normal\(chips)',
+ P_PATH='@esp32_s3.schematic1(sch_1):page1_ins6411@my_lib.\xtal.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+END.

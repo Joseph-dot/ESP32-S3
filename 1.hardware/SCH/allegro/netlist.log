@@ -1,0 +1,30 @@
+{ Using PSTWRITER 17.4.0 d001May-31-2022 at 16:29:09 }
+
+#1 WARNING(ORCAP-36042): Pin "VBUS" is renamed to "VBUS#A4" as visible power pin of same name already exists in Package TypeC_16P , TYPE_C1: SCHEMATIC1, Power (5.20, 0.20).
+#2 WARNING(ORCAP-36042): Pin "VBUS" is renamed to "VBUS#A9" as visible power pin of same name already exists in Package TypeC_16P , TYPE_C1: SCHEMATIC1, Power (5.20, 0.20).
+#3 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#A1" as visible power pin of same name already exists in Package TypeC_16P , TYPE_C1: SCHEMATIC1, Power (5.20, 0.20).
+#4 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#A12" as visible power pin of same name already exists in Package TypeC_16P , TYPE_C1: SCHEMATIC1, Power (5.20, 0.20).
+#5 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#B1" as visible power pin of same name already exists in Package TypeC_16P , TYPE_C1: SCHEMATIC1, Power (5.20, 0.20).
+#6 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#B12" as visible power pin of same name already exists in Package TypeC_16P , TYPE_C1: SCHEMATIC1, Power (5.20, 0.20).
+#7 WARNING(ORCAP-36042): Pin "VBUS" is renamed to "VBUS#B9" as visible power pin of same name already exists in Package TypeC_16P , TYPE_C1: SCHEMATIC1, Power (5.20, 0.20).
+#8 WARNING(ORCAP-36042): Pin "VBUS" is renamed to "VBUS#B4" as visible power pin of same name already exists in Package TypeC_16P , TYPE_C1: SCHEMATIC1, Power (5.20, 0.20).
+#9 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#GND1" as visible power pin of same name already exists in Package TypeC_16P , TYPE_C1: SCHEMATIC1, Power (5.20, 0.20).
+#10 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#GND2" as visible power pin of same name already exists in Package TypeC_16P , TYPE_C1: SCHEMATIC1, Power (5.20, 0.20).
+#11 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#GND3" as visible power pin of same name already exists in Package TypeC_16P , TYPE_C1: SCHEMATIC1, Power (5.20, 0.20).
+#12 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#GND4" as visible power pin of same name already exists in Package TypeC_16P , TYPE_C1: SCHEMATIC1, Power (5.20, 0.20).
+#13 WARNING(ORCAP-36042): Pin "VDD3P3" is renamed to "VDD3P3#2" as visible power pin of same name already exists in Package ESP32_S3 , U1: SCHEMATIC1, ESP32_S3 (106.68, 60.96).
+#14 WARNING(ORCAP-36042): Pin "VDD3P3" is renamed to "VDD3P3#3" as visible power pin of same name already exists in Package ESP32_S3 , U1: SCHEMATIC1, ESP32_S3 (106.68, 60.96).
+#15 WARNING(ORCAP-36042): Pin "VDDA" is renamed to "VDDA#55" as visible power pin of same name already exists in Package ESP32_S3 , U1: SCHEMATIC1, ESP32_S3 (106.68, 60.96).
+#16 WARNING(ORCAP-36042): Pin "VDDA" is renamed to "VDDA#56" as visible power pin of same name already exists in Package ESP32_S3 , U1: SCHEMATIC1, ESP32_S3 (106.68, 60.96).
+#17 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#2" as visible power pin of same name already exists in Package XTAL , Y1: SCHEMATIC1, ESP32_S3 (231.14, 25.40).
+#18 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#4" as visible power pin of same name already exists in Package XTAL , Y1: SCHEMATIC1, ESP32_S3 (231.14, 25.40).
+INFO(ORCAP-36080): Scanning netlist files ...
+
+Loading... C:\USERS\JOSEPHKEVIN\DESKTOP\ESP32-S3\1.HARDWARE\SCH\allegro\pstchip.dat
+
+Loading... C:\USERS\JOSEPHKEVIN\DESKTOP\ESP32-S3\1.HARDWARE\SCH\allegro\pstchip.dat
+
+Loading... C:\USERS\JOSEPHKEVIN\DESKTOP\ESP32-S3\1.HARDWARE\SCH\allegro\pstxprt.dat
+
+Loading... C:\USERS\JOSEPHKEVIN\DESKTOP\ESP32-S3\1.HARDWARE\SCH\allegro\pstxnet.dat
+packaging the design view...
