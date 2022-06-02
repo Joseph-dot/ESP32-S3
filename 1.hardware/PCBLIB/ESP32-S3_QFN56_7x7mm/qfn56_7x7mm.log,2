@@ -1,0 +1,24 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : QFN56_7x7mm.dra                               )
+(    Software Version : 17.4S023                                      )
+(    Date/Time        : Thu Jun  2 15:45:33 2022                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = C:/Users/JosephKevin/Desktop/ESP32-S3/1.hardware/PCBLIB/ESP32-S3_QFN56_7x7mm
+    Name      = qfn56_7x7mm.psm
+    User      = JosephKevin
+    Machine   = DESKTOP-4V0V2KQ
+
+
+Create symbol started.
+ 
+ ERROR(SPMHCS-1): Symbol is missing a refdes. 
+
+ERROR(SPMHA1-291): Create symbol has been aborted.
+
